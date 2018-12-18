@@ -34,7 +34,7 @@ int main(void)
 	scanf("%u", &t.d.tag);
 
 	printf("Monat.............: ");
-	scanf("%u", &t.d.monat);
+	scanf("%u", &t.d.monat;
 
 	printf("Jahr..............: "); 
 	scanf("%u", &t.d.jahr);
