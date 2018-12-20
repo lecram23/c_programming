@@ -1,1 +1,3 @@
 Hier steht ein Text den ich einlese
+
+Hallo, mein name ist marcel und ich schreibe gerade in eine Datei
