@@ -1,3 +1,4 @@
-Hier steht ein Text den ich einlese
-
-Hallo, mein name ist marcel und ich schreibe gerade in eine Datei
+Dies ist der String für die Testdatei
+Diese Zeile ist ein Lückenfüller !!!!
+Ein veränderte Zeile!
+Hier könnten noch viele Zeilen mehr stehen
